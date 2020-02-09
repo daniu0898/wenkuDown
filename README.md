@@ -9,7 +9,7 @@
 文件列表(缺一不可):
 DownLoad文件夹(下载的文件都在里面存放)
 tmp文件夹(临时存储的flash、图片等)
-swfrender.exe(swf转img的服务，提取与swftools)
-swfstrings.exe(swf获取文字的服务，提取与swftools)
+swfrender.exe(swf转img的服务，提取于swftools)
+swfstrings.exe(swf获取文字的服务，提取于swftools)
 
 有问题的可以留言，支持的文库可以后续增加。。。
